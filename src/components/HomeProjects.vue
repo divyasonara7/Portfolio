@@ -4,6 +4,11 @@
     <div class="blog py-5" id="services">
       <div class="container py-lg-5">
         <h5 class="title-small text-center">Projects</h5>
+        <h6 class="text-center mb-sm-5 mb-4">
+          This range of projects that demonstrate my skills and abilities as a
+          creative professional. Each project highlights my ability to think
+          think strategically, execute ideas, and collaborate with others.
+        </h6>
         <div class="row">
           <div class="col-md-12 mx-auto pr-2">
             <div class="owl-two owl-carousel owl-theme">

@@ -6,7 +6,7 @@
         <!-- <a class="navbar-brand" href="index.html">
           <span class="fa fa-laptop"></span> Divya
         </a> -->
-        <a class="navbar-brand" href="#index.html">
+        <a class="navbar-brand" href="/">
           <img
             src="../assets/images/Signaturelogo.png"
             alt="Divya"
@@ -30,15 +30,15 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html"
+              <a class="nav-link" href="/"
                 >Home <span class="sr-only">(current)</span></a
               >
             </li>
-            <li class="nav-item @@about__active">
-              <a class="nav-link" href="about.html">About</a>
+            <li class="nav-item @@contact__active">
+              <RouterLink class="nav-link" to="/about">about</RouterLink>
             </li>
             <li class="nav-item @@contact__active">
-              <a class="nav-link" href="contact.html">Contact</a>
+              <RouterLink class="nav-link" to="/work">Work</RouterLink>
             </li>
           </ul>
         </div>
@@ -64,7 +64,7 @@
 </template>
 <script>
 // import "../assets/js/theme-change.js";
-const toggleSwitch = document.querySelector(".theme-switch-wrapper");
+// const toggleSwitch = document.querySelector(".theme-switch-wrapper");
 // const currentTheme = localStorage.getItem("theme");
 
 // if (currentTheme) {
@@ -85,7 +85,6 @@ const toggleSwitch = document.querySelector(".theme-switch-wrapper");
 //   }
 // }
 
-console.log("Checkbox..", toggleSwitch);
 // toggleSwitch.addEventListener("change", switchTheme, false);
 
 export default {};
