@@ -17,14 +17,26 @@
             <h5 class="title-small mb-2">Who am i?</h5>
             <h3 class="title-big">I'm Divya Sonara, a Software Engineer.</h3>
             <p class="mt-4">
-              fell in love with programming and I have at least learnt something, I think…
-              🤷‍♂️ <br />
-
-              I am fluent in classics like HTML,CSS, Javascript,vue js,nuxt js and
-              Golang.<br />
-
-              My field of Interest's are building new Web Technologies and Products that
-              makes human life easier.<br />
+              I am a software engineer with a passion for creating innovative and
+              user-friendly solutions.
+            </p>
+            <br />
+            <p>
+              I have a strong background in programming languages such as C, C++, Java, as
+              well as experience in web development, database management, and software
+              testing.
+            </p>
+            <br />
+            <p>
+              I am a problem solver at heart and am always looking for new and creative
+              ways to approach challenges.
+            </p>
+            <br />
+            <p>
+              In my current role, I am responsible for designing, developing, and
+              maintaining software systems for various clients. I am committed to
+              delivering high-quality products that meet the needs of users and exceed
+              their expectations.<br />
             </p>
             <a href="#download" class="btn btn-style btn-primary mt-lg-5 mt-4"
               >Download CV</a
